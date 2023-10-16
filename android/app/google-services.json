@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252148386800",
+    "project_id": "commerce-blue",
+    "storage_bucket": "commerce-blue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252148386800:android:5528a755afc05c267b2b35",
+        "android_client_info": {
+          "package_name": "com.example.commerce_blue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuOQ9sVJk0rsrXnP-OcvGo9uHi3pv5yds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
